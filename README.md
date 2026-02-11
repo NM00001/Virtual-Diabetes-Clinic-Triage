@@ -1,4 +1,4 @@
-# Virtual Diabetes Clinic Triage – MLOps Assignment
+# Virtual Diabetes Clinic Triage
 
 ![CI](https://github.com/NM00001/Assignment_3_mlops/actions/workflows/ci.yml/badge.svg)
 ![Release](https://github.com/NM00001/Assignment_3_mlops/actions/workflows/release.yml/badge.svg)
